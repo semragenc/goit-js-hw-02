@@ -14,7 +14,7 @@ function getShippingCost(country) {
 
             break;
         case "Jamaica":
-            price= 250;
+            price= 120;
 
             break;
         default:
